@@ -1,0 +1,646 @@
+{
+  "paracetamol": {
+    "name": "Paracetamol (Acetaminophen)",
+    "generic_name": "Acetaminophen",
+    "brand_names": ["Crocin", "Dolo", "Tylenol", "P 500", "Metacin"],
+    "category": ["Analgesic", "Antipyretic"],
+    "indications": ["Fever", "Mild to moderate pain", "Headache", "Body aches", "Toothache", "Menstrual cramps"],
+    "dosage": {
+      "adults": "500-1000 mg every 4-6 hours (max 4000 mg/day)",
+      "children": "10-15 mg/kg every 4-6 hours",
+      "elderly": "Same as adults, adjust for liver function"
+    },
+    "how_to_take": "Take with or without food. Swallow tablets whole with water.",
+    "side_effects": {
+      "common": ["Nausea", "Headache", "Insomnia", "Rash"],
+      "serious": ["Liver damage (overdose)", "Allergic reaction (rare)"]
+    },
+    "contraindications": ["Severe liver disease", "Hypersensitivity to paracetamol"],
+    "precautions": [
+      "Do not exceed recommended dose",
+      "Avoid alcohol while taking",
+      "Consult doctor before use if you have liver disease",
+      "Do not take with other paracetamol-containing products"
+    ],
+    "interactions": ["Warfarin (increased bleeding risk)", "Alcohol (increased liver toxicity)"],
+    "pregnancy": "Generally safe in pregnancy, consult doctor first",
+    "breastfeeding": "Safe for breastfeeding mothers",
+    "storage": "Store at room temperature away from moisture and heat",
+    "overdose": "Seek immediate medical attention - liver damage risk",
+    "prescription_required": false,
+    "price_range": "₹5-20 per tablet",
+    "manufacturers": ["Various pharmaceutical companies"],
+    "description": "Paracetamol is a widely used over-the-counter analgesic and antipyretic medication. It works by blocking pain signals in the brain and reducing fever."
+  },
+  "ibuprofen": {
+    "name": "Ibuprofen",
+    "generic_name": "Ibuprofen",
+    "brand_names": ["Brufen", "Motrin", "Advil", "Ibugesic", "Combiflam"],
+    "category": ["NSAID", "Analgesic", "Antipyretic", "Anti-inflammatory"],
+    "indications": ["Fever", "Pain", "Inflammation", "Arthritis", "Menstrual cramps", "Headache", "Dental pain", "Muscle pain", "Back pain"],
+    "dosage": {
+      "adults": "200-400 mg every 4-6 hours (max 1200 mg/day OTC, 3200 mg prescription)",
+      "children": "5-10 mg/kg every 6-8 hours",
+      "elderly": "Lower dose recommended due to kidney/heart risks"
+    },
+    "how_to_take": "Take with food or milk to reduce stomach upset",
+    "side_effects": {
+      "common": ["Stomach upset", "Heartburn", "Nausea", "Dizziness", "Headache"],
+      "serious": ["Stomach bleeding", "Kidney problems", "Heart attack/stroke risk (long-term)", "Severe allergic reaction"]
+    },
+    "contraindications": [
+      "Active stomach ulcer",
+      "Bleeding disorders",
+      "Severe kidney disease",
+      "Severe heart failure",
+      "Aspirin allergy",
+      "Last trimester of pregnancy"
+    ],
+    "precautions": [
+      "Take with food to protect stomach",
+      "Avoid alcohol",
+      "Not for long-term use without doctor supervision",
+      "Monitor blood pressure if hypertensive"
+    ],
+    "interactions": [
+      "Aspirin (increased bleeding risk)",
+      "Blood thinners (warfarin)",
+      "ACE inhibitors (reduced effectiveness)",
+      "Diuretics (reduced effect)",
+      "Lithium (increased toxicity)",
+      "Methotrexate (increased toxicity)"
+    ],
+    "pregnancy": "Avoid in third trimester; use caution in first two trimesters",
+    "breastfeeding": "Generally safe but use lowest effective dose",
+    "storage": "Store at room temperature away from light and moisture",
+    "overdose": "Seek immediate medical attention - stomach bleeding risk",
+    "prescription_required": false,
+    "price_range": "₹10-50 per tablet",
+    "manufacturers": ["Abbott", "Cipla", "Sun Pharma", "Dr. Reddy's"],
+    "description": "Ibuprofen is an NSAID that reduces hormones that cause inflammation and pain in the body. It's used for fever, pain, and inflammatory conditions."
+  },
+  "amoxicillin": {
+    "name": "Amoxicillin",
+    "generic_name": "Amoxicillin",
+    "brand_names": ["Amoxil", "Mox", "Novamox", "Clamox", "Sensiclav"],
+    "category": ["Antibiotic", "Penicillin"],
+    "indications": [
+      "Bacterial infections",
+      "Respiratory tract infections",
+      "Ear infections (otitis media)",
+      "Throat infections (strep throat)",
+      "Sinusitis",
+      "Urinary tract infections",
+      "Skin infections",
+      "Dental abscess",
+      "H. pylori (with other drugs)"
+    ],
+    "dosage": {
+      "adults": "250-500 mg every 8 hours OR 500-875 mg every 12 hours",
+      "children": "20-40 mg/kg/day divided every 8 hours",
+      "elderly": "Same as adults, adjust for kidney function"
+    },
+    "how_to_take": "Take at evenly spaced intervals. May take with or without food.",
+    "side_effects": {
+      "common": ["Diarrhea", "Nausea", "Vomiting", "Rash", "Yeast infection"],
+      "serious": ["Severe allergic reaction (anaphylaxis)", "C. difficile diarrhea", "Seizures (high doses)"]
+    },
+    "contraindications": ["Penicillin allergy", "Cephalosporin allergy (caution)"],
+    "precautions": [
+      "Complete full course even if feeling better",
+      "Inform doctor of any rash",
+      "Monitor for signs of allergic reaction"
+    ],
+    "interactions": [
+      "Allopurinol (increased rash risk)",
+      "Methotrexate (increased toxicity)",
+      "Oral contraceptives (reduced effectiveness - use backup method)",
+      "Probenecid (increased amoxicillin levels)"
+    ],
+    "pregnancy": "Generally considered safe (Category B)",
+    "breastfeeding": "Safe for breastfeeding",
+    "storage": "Store at room temperature. Oral suspension requires refrigeration",
+    "overdose": "Seek medical attention - may cause kidney damage",
+    "prescription_required": true,
+    "price_range": "₹30-100 per tablet",
+    "manufacturers": ["GlaxoSmithKline", "Cipla", "Alkem", "Macleods"],
+    "description": "Amoxicillin is a penicillin-type antibiotic used to treat various bacterial infections. It works by stopping the growth of bacteria."
+  },
+  "cetirizine": {
+    "name": "Cetirizine",
+    "generic_name": "Cetirizine Hydrochloride",
+    "brand_names": ["Cetrizet", "Zyrtec", "Alerid", "Cetzine", "Zyncet"],
+    "category": ["Antihistamine", "Allergy medication"],
+    "indications": [
+      "Allergic rhinitis (hay fever)",
+      "Seasonal allergies",
+      "Hives (urticaria)",
+      "Itching",
+      "Allergic conjunctivitis",
+      "Pet allergies",
+      "Dust mite allergies"
+    ],
+    "dosage": {
+      "adults": "5-10 mg once daily",
+      "children (6-12 years)": "5-10 mg once daily",
+      "children (2-6 years)": "2.5-5 mg once daily",
+      "elderly": "5 mg once daily",
+      "kidney disease": "5 mg once daily"
+    },
+    "how_to_take": "Take with or without food. May cause drowsiness initially.",
+    "side_effects": {
+      "common": ["Drowsiness (less than older antihistamines)", "Dry mouth", "Fatigue", "Sore throat", "Headache"],
+      "serious": ["Severe allergic reaction", "Liver problems (rare)"]
+    },
+    "contraindications": ["Hypersensitivity to cetirizine or hydroxyzine", "Severe kidney disease"],
+    "precautions": [
+      "May cause drowsiness - avoid driving until you know reaction",
+      "Avoid alcohol",
+      "Use caution in kidney disease"
+    ],
+    "interactions": [
+      "Alcohol (increased drowsiness)",
+      "Sedatives (increased drowsiness)",
+      "Theophylline (reduced clearance)"
+    ],
+    "pregnancy": "Use only if clearly needed (Category B)",
+    "breastfeeding": "Use with caution - small amounts pass into breast milk",
+    "storage": "Store at room temperature away from moisture",
+    "overdose": "Seek medical attention - may cause severe drowsiness, agitation",
+    "prescription_required": false,
+    "price_range": "₹5-25 per tablet",
+    "manufacturers": ["Cipla", "Dr. Reddy's", "Sun Pharma", "Torrent"],
+    "description": "Cetirizine is an antihistamine that blocks histamine receptors, reducing allergy symptoms like sneezing, itching, watery eyes, and runny nose."
+  },
+  "omeprazole": {
+    "name": "Omeprazole",
+    "generic_name": "Omeprazole",
+    "brand_names": ["Omez", "Prolez", "Omepra", "Rantac O", "Zeropep"],
+    "category": ["Proton Pump Inhibitor (PPI)", "Anti-ulcer"],
+    "indications": [
+      "GERD (Gastroesophageal reflux disease)",
+      "Heartburn",
+      "Stomach ulcers",
+      "Duodenal ulcers",
+      "Zollinger-Ellison syndrome",
+      "H. pylori infection (combination therapy)",
+      "NSAID-induced ulcers"
+    ],
+    "dosage": {
+      "adults": "20-40 mg once daily before a meal",
+      "elderly": "Same as adults",
+      "severe GERD": "40 mg twice daily"
+    },
+    "how_to_take": "Take 30-60 minutes before breakfast. Swallow capsule whole.",
+    "duration": "Usually 4-8 weeks for ulcers, 14 days for heartburn",
+    "side_effects": {
+      "common": ["Headache", "Nausea", "Diarrhea", "Stomach pain", "Gas", "Constipation"],
+      "serious": ["Kidney damage", "Low magnesium (long-term)", "Bone fractures (long-term)", "Vitamin B12 deficiency (long-term)", "C. difficile infection"]
+    },
+    "contraindications": ["Hypersensitivity to PPIs", "Concurrent rilpivirine use"],
+    "precautions": [
+      "Take before meals for best effect",
+      "Long-term use may increase fracture risk",
+      "May mask stomach cancer symptoms",
+      "Monitor magnesium levels with long-term use"
+    ],
+    "interactions": [
+      "Clopidogrel (reduced effectiveness)",
+      "Methotrexate (increased toxicity)",
+      "Digoxin (increased levels)",
+      "Diazepam (increased levels)",
+      "Antifungals (reduced absorption)"
+    ],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use with caution - passes into breast milk",
+    "storage": "Store at room temperature away from moisture",
+    "overdose": "Seek medical attention - symptoms include confusion, drowsiness, blurred vision",
+    "prescription_required": true,
+    "price_range": "₹15-50 per capsule",
+    "manufacturers": ["Dr. Reddy's", "Sun Pharma", "Alkem", "Mankind"],
+    "description": "Omeprazole reduces stomach acid production by blocking the proton pump in stomach cells. It's used for acid-related conditions and ulcers."
+  },
+  "azithromycin": {
+    "name": "Azithromycin",
+    "generic_name": "Azithromycin",
+    "brand_names": ["Azithral", "Azee", "Zithromax", "Aziwok", "Zady"],
+    "category": ["Antibiotic", "Macrolide"],
+    "indications": [
+      "Respiratory infections",
+      "Pneumonia",
+      "Bronchitis",
+      "Sinusitis",
+      "Pharyngitis",
+      "Tonsillitis",
+      "Skin infections",
+      "Ear infections",
+      "STDs (Chlamydia, Gonorrhea)",
+      "Typhoid fever"
+    ],
+    "dosage": {
+      "adults": "500 mg on day 1, then 250 mg days 2-5 OR 500 mg once daily for 3 days",
+      "children": "10 mg/kg on day 1, then 5 mg/kg days 2-5",
+      "elderly": "Same as adults"
+    },
+    "how_to_take": "Take on empty stomach (1 hour before or 2 hours after meals)",
+    "duration": "Usually 3-5 days",
+    "side_effects": {
+      "common": ["Diarrhea", "Nausea", "Abdominal pain", "Vomiting", "Headache"],
+      "serious": ["Severe allergic reaction", "Liver damage", "Irregular heartbeat (QT prolongation)", "C. difficile diarrhea"]
+    },
+    "contraindications": [
+      "Hypersensitivity to macrolides",
+      "Liver disease",
+      "QT prolongation or heart rhythm disorders"
+    ],
+    "precautions": [
+      "Complete full course",
+      "Monitor for diarrhea",
+      "Caution in liver disease",
+      "May cause irregular heartbeat"
+    ],
+    "interactions": [
+      "Warfarin (increased bleeding risk)",
+      "Digoxin (increased levels)",
+      "Statins (increased risk of muscle damage)",
+      "Antacids (reduce absorption - take 2 hours apart)"
+    ],
+    "pregnancy": "Generally considered safe (Category B)",
+    "breastfeeding": "Safe for breastfeeding",
+    "storage": "Store at room temperature away from moisture",
+    "overdose": "Seek medical attention - may cause hearing loss, severe nausea",
+    "prescription_required": true,
+    "price_range": "₹40-150 per tablet",
+    "manufacturers": ["Cipla", "Sun Pharma", "Zydus", "Macleods"],
+    "description": "Azithromycin is a macrolide antibiotic that stops bacterial growth by inhibiting protein synthesis. It's known for its short course duration."
+  },
+  "diclofenac": {
+    "name": "Diclofenac Sodium",
+    "generic_name": "Diclofenac",
+    "brand_names": ["Voltaren", "Voveran", "Diclomax", "Dynapar", "Relaxyl"],
+    "category": ["NSAID", "Analgesic", "Anti-inflammatory"],
+    "indications": ["Arthritis", "Joint pain", "Muscle pain", "Dental pain", "Migraine", "Ankylosing spondylitis"],
+    "dosage": {
+      "adults": "50 mg 2-3 times daily",
+      "elderly": "75 mg once daily"
+    },
+    "how_to_take": "Take with food to reduce stomach upset",
+    "side_effects": {
+      "common": ["Stomach upset", "Heartburn", "Nausea", "Diarrhea"],
+      "serious": ["Stomach bleeding", "Heart attack risk", "Kidney damage"]
+    },
+    "contraindications": ["Active ulcer", "Aspirin allergy", "Severe heart failure", "Last trimester pregnancy"],
+    "precautions": ["Avoid alcohol", "Take with food", "Not for long-term use without monitoring"],
+    "interactions": ["Warfarin", "Aspirin", "Lithium", "Methotrexate"],
+    "pregnancy": "Avoid in third trimester",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹8-35 per tablet"
+  },
+  "metformin": {
+    "name": "Metformin",
+    "generic_name": "Metformin Hydrochloride",
+    "brand_names": ["Glycomet", "Glucophage", "Metlong", "Dianorm", "Bigomet"],
+    "category": ["Antidiabetic", "Biguanide"],
+    "indications": ["Type 2 diabetes mellitus", "PCOS", "Prediabetes", "Gestational diabetes"],
+    "dosage": {
+      "adults": "500-2000 mg daily in divided doses",
+      "elderly": "Lower dose, monitor kidney function"
+    },
+    "how_to_take": "Take with meals to reduce GI side effects",
+    "side_effects": {
+      "common": ["Nausea", "Diarrhea", "Stomach upset", "Metallic taste"],
+      "serious": ["Lactic acidosis (rare)"]
+    },
+    "contraindications": ["Severe kidney disease", "Metabolic acidosis", "Severe liver disease", "Alcoholism"],
+    "precautions": ["Monitor kidney function", "Hold before contrast dye", "Avoid excessive alcohol"],
+    "interactions": ["Contrast dye", "Cimetidine", "Furosemide", "Alcohol"],
+    "pregnancy": "Generally safe (Category B)",
+    "breastfeeding": "Safe",
+    "prescription_required": true,
+    "price_range": "₹3-15 per tablet"
+  },
+  "amlodipine": {
+    "name": "Amlodipine",
+    "generic_name": "Amlodipine Besylate",
+    "brand_names": ["Amdepin", "Amlopres", "Amcard", "Stamlo", "Amlokind"],
+    "category": ["Antihypertensive", "Calcium Channel Blocker"],
+    "indications": ["Hypertension", "Angina pectoris", "Coronary artery disease"],
+    "dosage": {
+      "adults": "2.5-10 mg once daily",
+      "elderly": "2.5 mg once daily"
+    },
+    "how_to_take": "Take at the same time each day, with or without food",
+    "side_effects": {
+      "common": ["Swelling ankles/feet", "Dizziness", "Flushing", "Headache", "Fatigue"],
+      "serious": ["Severe hypotension", "Heart failure worsening"]
+    },
+    "contraindications": ["Severe hypotension", "Cardiogenic shock", "Aortic stenosis"],
+    "precautions": ["Monitor blood pressure", "Caution in liver disease", "May worsen heart failure"],
+    "interactions": ["Grapefruit juice", "Simvastatin", "Ketoconazole", "Rifampin"],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹5-20 per tablet"
+  },
+  "losartan": {
+    "name": "Losartan",
+    "generic_name": "Losartan Potassium",
+    "brand_names": ["Losar", "Cosart", "Repace", "Losa", "Ara"],
+    "category": ["Antihypertensive", "ARB"],
+    "indications": ["Hypertension", "Diabetic nephropathy", "Heart failure", "Stroke prevention"],
+    "dosage": {
+      "adults": "25-100 mg once or twice daily",
+      "elderly": "25 mg once daily"
+    },
+    "how_to_take": "Take with or without food",
+    "side_effects": {
+      "common": ["Dizziness", "Fatigue", "Low blood pressure", "Increased potassium"],
+      "serious": ["Angioedema", "Kidney failure", "Liver damage"]
+    },
+    "contraindications": ["Pregnancy", "Bilateral renal artery stenosis", "Hypersensitivity"],
+    "precautions": ["Monitor potassium", "Monitor kidney function", "Avoid in dehydration"],
+    "interactions": ["Potassium supplements", "ACE inhibitors", "NSAIDs", "Lithium"],
+    "pregnancy": "Contraindicated (Category D)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹6-25 per tablet"
+  },
+  "atorvastatin": {
+    "name": "Atorvastatin",
+    "generic_name": "Atorvastatin Calcium",
+    "brand_names": ["Lipitor", "Atorva", "Storvas", "Atocor", "Turbovas"],
+    "category": ["Statin", "Lipid-lowering", "HMG-CoA Reductase Inhibitor"],
+    "indications": ["High cholesterol", "High triglycerides", "Prevention of heart attack/stroke", "Coronary artery disease"],
+    "dosage": {
+      "adults": "10-80 mg once daily",
+      "elderly": "10-20 mg once daily"
+    },
+    "how_to_take": "Take at any time of day, with or without food",
+    "side_effects": {
+      "common": ["Muscle pain", "Joint pain", "Diarrhea", "Nausea"],
+      "serious": ["Rhabdomyolysis", "Liver damage", "Diabetes risk"]
+    },
+    "contraindications": ["Active liver disease", "Pregnancy", "Breastfeeding"],
+    "precautions": ["Monitor liver enzymes", "Report muscle pain immediately", "Avoid grapefruit juice"],
+    "interactions": ["Grapefruit juice", "Clarithromycin", "Itraconazole", "HIV protease inhibitors", "Cyclosporine"],
+    "pregnancy": "Contraindicated (Category X)",
+    "breastfeeding": "Contraindicated",
+    "prescription_required": true,
+    "price_range": "₹10-50 per tablet"
+  },
+  "levothyroxine": {
+    "name": "Levothyroxine",
+    "generic_name": "Levothyroxine Sodium",
+    "brand_names": ["Thyronorm", "Eltroxin", "Thyrox", "Levoxyl", "Synthroid"],
+    "category": ["Thyroid hormone", "Hormone replacement"],
+    "indications": ["Hypothyroidism", "Myxedema coma", "Thyroid cancer suppression", "Goiter"],
+    "dosage": {
+      "adults": "25-200 mcg once daily",
+      "elderly": "12.5-25 mcg once daily"
+    },
+    "how_to_take": "Take on empty stomach 30-60 minutes before breakfast",
+    "side_effects": {
+      "common": ["Palpitations", "Weight loss", "Insomnia", "Nervousness", "Heat intolerance"],
+      "serious": ["Thyrotoxicosis", "Arrhythmias", "Osteoporosis (long-term overuse)"]
+    },
+    "contraindications": ["Untreated thyrotoxicosis", "Adrenal insufficiency"],
+    "precautions": ["Monitor TSH levels", "Adjust dose carefully", "Caution in heart disease"],
+    "interactions": ["Calcium/iron supplements (separate by 4 hours)", "Warfarin", "Phenytoin", "Rifampin"],
+    "pregnancy": "Safe and necessary (Category A)",
+    "breastfeeding": "Safe",
+    "prescription_required": true,
+    "price_range": "₹2-10 per tablet"
+  },
+  "salbutamol": {
+    "name": "Salbutamol",
+    "generic_name": "Albuterol",
+    "brand_names": ["Asthalin", "Ventolin", "Salbair", "Levolin", "Asthavent"],
+    "category": ["Bronchodilator", "Beta-2 agonist", "Asthma medication"],
+    "indications": ["Asthma", "COPD", "Bronchospasm", "Exercise-induced bronchoconstriction"],
+    "dosage": {
+      "adults": "2 puffs every 4-6 hours as needed",
+      "children": "1-2 puffs as needed"
+    },
+    "how_to_take": "Inhale via inhaler or nebulizer",
+    "side_effects": {
+      "common": ["Tremor", "Palpitations", "Headache", "Nervousness"],
+      "serious": ["Paradoxical bronchospasm", "Hypokalemia", "Cardiac arrhythmias"]
+    },
+    "contraindications": ["Hypersensitivity", "Tachyarrhythmias"],
+    "precautions": ["Do not exceed prescribed dose", "Use with caution in heart disease", "Monitor potassium"],
+    "interactions": ["Beta-blockers", "Digoxin", "Diuretics", "MAOIs"],
+    "pregnancy": "Generally safe (Category C)",
+    "breastfeeding": "Safe",
+    "prescription_required": false,
+    "price_range": "₹30-80 per inhaler"
+  },
+  "hydrochlorothiazide": {
+    "name": "Hydrochlorothiazide",
+    "generic_name": "HCTZ",
+    "brand_names": ["Hydride", "Esidrix", "Microzide", "Thiazide"],
+    "category": ["Diuretic", "Antihypertensive", "Thiazide"],
+    "indications": ["Hypertension", "Edema", "Nephrogenic diabetes insipidus", "Calcium kidney stones"],
+    "dosage": {
+      "adults": "12.5-50 mg once daily",
+      "elderly": "12.5 mg once daily"
+    },
+    "how_to_take": "Take in the morning to avoid nighttime urination",
+    "side_effects": {
+      "common": ["Frequent urination", "Low potassium", "Dizziness", "Impotence"],
+      "serious": ["Severe electrolyte imbalance", "Pancreatitis", "Allergic reaction"]
+    },
+    "contraindications": ["Anuria", "Sulfa allergy", "Severe kidney disease"],
+    "precautions": ["Monitor electrolytes", "Monitor blood sugar", "May increase uric acid"],
+    "interactions": ["Lithium", "Digoxin", "NSAIDs", "Corticosteroids"],
+    "pregnancy": "Use only if clearly needed (Category B)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹2-10 per tablet"
+  },
+  "clopidogrel": {
+    "name": "Clopidogrel",
+    "generic_name": "Clopidogrel Bisulfate",
+    "brand_names": ["Plavix", "Clopivas", "Deplatt", "Ceruvin", "Clopilet"],
+    "category": ["Antiplatelet", "Antithrombotic"],
+    "indications": ["Recent heart attack", "Recent stroke", "Peripheral artery disease", "ACS", "Stent thrombosis prevention"],
+    "dosage": {
+      "adults": "75 mg once daily",
+      "elderly": "75 mg once daily"
+    },
+    "how_to_take": "Take with or without food",
+    "side_effects": {
+      "common": ["Bleeding", "Bruising", "Diarrhea", "Abdominal pain"],
+      "serious": ["Intracranial bleeding", "Severe thrombocytopenia", "TTP"]
+    },
+    "contraindications": ["Active bleeding", "Severe liver disease", "Peptic ulcer"],
+    "precautions": ["Monitor for bleeding", "Stop 5-7 days before surgery", "Consider genetic testing for poor metabolizers"],
+    "interactions": ["Omeprazole (reduced effect)", "Rifampin", "Warfarin", "NSAIDs", "PPIs"],
+    "pregnancy": "Use only if clearly needed (Category B)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹8-35 per tablet"
+  },
+  "gabapentin": {
+    "name": "Gabapentin",
+    "generic_name": "Gabapentin",
+    "brand_names": ["Neurontin", "Gabapin", "Gabadep", "Pentin", "Gapatab"],
+    "category": ["Anticonvulsant", "Neuropathic pain agent"],
+    "indications": ["Neuropathic pain", "Postherpetic neuralgia", "Epilepsy (partial seizures)", "Restless leg syndrome", "Fibromyalgia"],
+    "dosage": {
+      "adults": "300-1800 mg daily in 3 divided doses",
+      "elderly": "100-300 mg once daily"
+    },
+    "how_to_take": "Take with or without food. Start low, go slow.",
+    "side_effects": {
+      "common": ["Dizziness", "Drowsiness", "Peripheral edema", "Ataxia", "Fatigue"],
+      "serious": ["Respiratory depression", "Suicidal thoughts", "Stevens-Johnson syndrome"]
+    },
+    "contraindications": ["Hypersensitivity"],
+    "precautions": ["May cause dizziness - avoid driving", "Taper slowly to avoid withdrawal", "Monitor for mood changes"],
+    "interactions": ["Morphine (increased sedation)", "Antacids (reduce absorption - separate by 2 hours)", "Hydrocodone"],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹10-40 per capsule"
+  },
+  "escitalopram": {
+    "name": "Escitalopram",
+    "generic_name": "Escitalopram Oxalate",
+    "brand_names": ["Lexapro", "Nexito", "Esita", "Cipralex", "Escitalo"],
+    "category": ["Antidepressant", "SSRI"],
+    "indications": ["Major depressive disorder", "Generalized anxiety disorder", "Social anxiety disorder", "Panic disorder", "OCD"],
+    "dosage": {
+      "adults": "10-20 mg once daily",
+      "elderly": "5-10 mg once daily"
+    },
+    "how_to_take": "Take at any time of day, with or without food",
+    "side_effects": {
+      "common": ["Nausea", "Insomnia", "Fatigue", "Drowsiness", "Sexual dysfunction", "Weight gain"],
+      "serious": ["Serotonin syndrome", "Suicidal thoughts (young adults)", "QT prolongation"]
+    },
+    "contraindications": ["MAOI use within 14 days", "Pimozide", "Hypersensitivity"],
+    "precautions": ["Monitor for worsening depression/suicidality", "May cause bleeding risk", "Caution in seizure disorders"],
+    "interactions": ["MAOIs", "NSAIDs (bleeding risk)", "Lithium", "Triptans", "St. John's wort"],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹15-60 per tablet"
+  },
+  "tramadol": {
+    "name": "Tramadol",
+    "generic_name": "Tramadol Hydrochloride",
+    "brand_names": ["Ultram", "Tramazac", "Zydol", "Contramal", "Topalgic"],
+    "category": ["Opioid analgesic", "Pain medication"],
+    "indications": ["Moderate to moderately severe pain", "Chronic pain", "Postoperative pain", "Neuropathic pain"],
+    "dosage": {
+      "adults": "50-100 mg every 4-6 hours (max 400 mg/day)",
+      "elderly": "50 mg every 6 hours"
+    },
+    "how_to_take": "Take with or without food. Swallow whole.",
+    "side_effects": {
+      "common": ["Nausea", "Dizziness", "Drowsiness", "Constipation", "Headache"],
+      "serious": ["Seizures", "Serotonin syndrome", "Respiratory depression", "Addiction"]
+    },
+    "contraindications": ["Seizure disorder", "MAOI use", "Alcohol intoxication", "Suicidal risk"],
+    "precautions": ["Risk of addiction", "May cause seizures", "Avoid alcohol", "Do not crush/chew extended-release"],
+    "interactions": ["MAOIs", "SSRIs (serotonin syndrome)", "Carbamazepine", "Warfarin", "Alcohol"],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use caution - passes into milk",
+    "prescription_required": true,
+    "price_range": "₹15-50 per tablet"
+  },
+  "prednisolone": {
+    "name": "Prednisolone",
+    "generic_name": "Prednisolone",
+    "brand_names": ["Wysolone", "Omnacortil", "Predmet", "Cortisol", "Prelone"],
+    "category": ["Corticosteroid", "Immunosuppressant", "Anti-inflammatory"],
+    "indications": ["Allergic reactions", "Asthma", "Autoimmune diseases", "Arthritis", "COPD", "Inflammatory bowel disease", "Nephrotic syndrome"],
+    "dosage": {
+      "adults": "5-60 mg daily depending on condition",
+      "children": "0.1-2 mg/kg/day"
+    },
+    "how_to_take": "Take with food to reduce stomach upset",
+    "side_effects": {
+      "common": ["Weight gain", "Increased appetite", "Insomnia", "Mood swings", "High blood sugar"],
+      "serious": ["Adrenal suppression", "Osteoporosis", "Avascular necrosis", "Glaucoma", "Immunosuppression"]
+    },
+    "contraindications": ["Systemic fungal infection", "Live vaccines", "Hypersensitivity"],
+    "precautions": ["Taper slowly - do not stop abruptly", "Monitor blood sugar", "Monitor bone density", "Avoid live vaccines"],
+    "interactions": ["NSAIDs (ulcer risk)", "Antidiabetics (reduce effect)", "Phenytoin", "Rifampin", "Warfarin"],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹5-25 per tablet"
+  },
+  "ondansetron": {
+    "name": "Ondansetron",
+    "generic_name": "Ondansetron Hydrochloride",
+    "brand_names": ["Emeset", "Vomikind", "Ondem", "Zofran", "Ondero"],
+    "category": ["Antiemetic", "5-HT3 antagonist"],
+    "indications": ["Chemotherapy-induced nausea", "Postoperative nausea", "Radiation-induced nausea", "Morning sickness (off-label)"],
+    "dosage": {
+      "adults": "4-8 mg every 8-12 hours",
+      "children": "0.15 mg/kg"
+    },
+    "how_to_take": "Take 30 minutes before chemotherapy",
+    "side_effects": {
+      "common": ["Headache", "Constipation", "Dizziness", "Fatigue"],
+      "serious": ["QT prolongation", "Serotonin syndrome", "Blurred vision"]
+    },
+    "contraindications": ["Hypersensitivity", "Concurrent apomorphine use"],
+    "precautions": ["May cause QT prolongation - monitor ECG", "Caution in liver disease", "May mask bowel obstruction"],
+    "interactions": ["Apomorphine (severe hypotension)", "Tramadol (reduced effect)", "Phenytoin", "Rifampin"],
+    "pregnancy": "Generally safe (Category B)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹10-40 per tablet"
+  },
+  "furosemide": {
+    "name": "Furosemide",
+    "generic_name": "Furosemide",
+    "brand_names": ["Lasix", "Frusenex", "Diurin", "Furokind", "Axide"],
+    "category": ["Loop diuretic", "Antihypertensive"],
+    "indications": ["Pulmonary edema", "Heart failure", "Kidney disease", "Hypertension", "Cirrhosis with ascites"],
+    "dosage": {
+      "adults": "20-80 mg daily or twice daily",
+      "elderly": "20-40 mg once daily"
+    },
+    "how_to_take": "Take in the morning to avoid nighttime urination",
+    "side_effects": {
+      "common": ["Frequent urination", "Dehydration", "Low potassium", "Low sodium", "Dizziness"],
+      "serious": ["Ototoxicity (hearing loss)", "Severe electrolyte imbalance", "Stevens-Johnson syndrome"]
+    },
+    "contraindications": ["Anuria", "Hypersensitivity to sulfa", "Severe electrolyte depletion"],
+    "precautions": ["Monitor electrolytes", "Monitor blood pressure", "May increase blood sugar", "Caution in liver disease"],
+    "interactions": ["Aminoglycosides (ototoxicity)", "Lithium", "Digoxin", "NSAIDs", "Cisplatin"],
+    "pregnancy": "Use only if clearly needed (Category C)",
+    "breastfeeding": "Use caution",
+    "prescription_required": true,
+    "price_range": "₹3-15 per tablet"
+  },
+  "diazepam": {
+    "name": "Diazepam",
+    "generic_name": "Diazepam",
+    "brand_names": ["Valium", "Calmpose", "Anxoz", "Placidox", "Diazep"],
+    "category": ["Benzodiazepine", "Anxiolytic", "Muscle relaxant", "Anticonvulsant"],
+    "indications": ["Anxiety disorders", "Alcohol withdrawal", "Muscle spasms", "Seizures", "Status epilepticus", "Preoperative sedation"],
+    "dosage": {
+      "adults": "2-10 mg 2-4 times daily",
+      "elderly": "2-2.5 mg 1-2 times daily"
+    },
+    "how_to_take": "Take with or without food",
+    "side_effects": {
+      "common": ["Drowsiness", "Dizziness", "Fatigue", "Ataxia", "Muscle weakness"],
+      "serious": ["Respiratory depression", "Addiction", "Withdrawal seizures", "Paradoxical reactions"]
+    },
+    "contraindications": ["Narrow-angle glaucoma", "Myasthenia gravis", "Severe respiratory insufficiency", "Sleep apnea"],
+    "precautions": ["Risk of dependence", "Avoid alcohol", "Do not drive", "Taper slowly"],
+    "interactions": ["Alcohol (increased sedation)", "Opioids (respiratory depression)", "Antifungals", "Protease inhibitors"],
+    "pregnancy": "Avoid (Category D)",
+    "breastfeeding": "Avoid",
+    "prescription_required": true,
+    "controlled_substance": true,
+    "price_range": "₹5-20 per tablet"
+  }
+}
