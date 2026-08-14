@@ -106,6 +106,7 @@ python main.py
 ---
 ## Contributors:
 Nakshatra Gupta
+
 Gurpreet Nagar
 
 ## 🌐 Supported Languages
