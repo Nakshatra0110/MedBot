@@ -104,6 +104,9 @@ python main.py
 6. Response translated to user's selected language
 
 ---
+##Contributors:
+Nakshatra Gupta
+Gurpreet Nagar
 
 ## 🌐 Supported Languages
 
